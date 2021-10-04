@@ -7,5 +7,9 @@ public class First {
         /*
         *   IntelliJ is working fine with the GitHub!!
         * */
+
+        for(int i=0;i<5;i+=2){
+            System.out.println("Hello!!");
+        }
     }
 }
